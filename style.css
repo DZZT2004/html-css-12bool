@@ -1,0 +1,12 @@
+[class*="col-"]{
+    background-color: #006cfa;
+    color: white;
+}
+
+span{
+    text-align: center;
+}
+
+.nested{
+    background-color: greenyellow;
+}
